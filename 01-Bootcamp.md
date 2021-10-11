@@ -1,0 +1,8 @@
+---
+hide:
+    - toc
+---
+
+# Bootcamp
+
+hi.
